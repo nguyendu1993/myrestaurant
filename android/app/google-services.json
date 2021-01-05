@@ -1,0 +1,32 @@
+{
+  "project_info": {
+      "project_number": "646002843115",
+      "firebase_url": "https://duanttn.firebaseio.com",
+      "project_id": "duanttn",
+      "storage_bucket": "duanttn.appspot.com"
+  },
+  "client": [{
+      "client_info": {
+          "mobilesdk_app_id": "1:646002843115:android:26185cc356f03449e5cdae",
+          "android_client_info": {
+              "package_name": "com.myrestaurant"
+          }
+      },
+      "oauth_client": [{
+          "client_id": "646002843115-rrgaa5r9f7it1h1qf59en5lrg00cj777.apps.googleusercontent.com",
+          "client_type": 3
+      }],
+      "api_key": [{
+          "current_key": "AIzaSyCA7SaFaTpbF7Z2I7l0_E6QzAVGj_vE6vw"
+      }],
+      "services": {
+          "appinvite_service": {
+              "other_platform_oauth_client": [{
+                  "client_id": "646002843115-rrgaa5r9f7it1h1qf59en5lrg00cj777.apps.googleusercontent.com",
+                  "client_type": 3
+              }]
+          }
+      }
+  }],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#462329",
+        "titleBar.activeBackground": "#62313A",
+        "titleBar.activeForeground": "#FCF9F9"
+    },
+    "npm-scripts.showStartNotification": false
+}
